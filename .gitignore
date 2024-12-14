@@ -2,3 +2,4 @@ creds.yaml
 *.jsonl
 *.csv
 data/
+__pycache_
